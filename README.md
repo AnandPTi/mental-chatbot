@@ -5,7 +5,7 @@
 First clone the repository: 
 
 ```
-git clone https://github.com/asifrahaman13/mental-health-counsellor
+git clone https://github.com/AnandPTi/mental-chatbot
 ```
 
 Next enter into the backend directory.
