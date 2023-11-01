@@ -66,7 +66,7 @@ yarn start
 
 **MIT License**
 
-## Copyright (c) 2023 Asif Rahaman
+## Copyright (c) 2023 Anand Prakash
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
